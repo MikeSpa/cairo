@@ -1,4 +1,5 @@
-# StarkNet
+# Cairo
+
 
 ## Install
 
